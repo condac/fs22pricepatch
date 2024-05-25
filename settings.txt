@@ -1,0 +1,3 @@
+{
+"gamefile" : "~/Games/Heroic/FarmingSimulator22/data/maps/maps_fillTypes.xml"
+}
